@@ -1,0 +1,26 @@
+ul{
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+	border: 1px solid #ccc;
+	width: 130px;
+}
+
+a{
+	font-family: 'Oswald', sans-serif;
+	font-size: 15px;
+	text-decoration: none;
+	color: black;
+	display: block;
+	padding:  6px;
+	border:  1px solid #ccc;
+	background-color: #eaeaea
+}
+
+a:hover{
+	color:  #FBFAFF;
+	background-color: #656A74;
+	border-right-width: 5px;
+	border-right-color: black;
+
+}
