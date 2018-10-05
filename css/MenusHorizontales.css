@@ -1,3 +1,4 @@
+
 ul{
 	list-style-type: none;
 	margin: 0px;
@@ -16,7 +17,7 @@ li{
 li:hover{
 	color:  #FBFAFF;
 	background-color: #656A74;
-	border-bottom-width: 5px;
+	border-bottom-width: 10px;
 	border-bottom-color: black;
 }
 

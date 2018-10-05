@@ -4,6 +4,7 @@ ul{
 	padding: 0px;
 	border: 1px solid #ccc;
 	width: 130px;
+	display: inline-block;
 }
 
 a{
